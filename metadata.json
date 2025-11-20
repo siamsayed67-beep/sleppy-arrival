@@ -1,0 +1,7 @@
+{
+  "name": "Sleepy Arrival",
+  "description": "A location-based alarm system that notifies you when you enter a specified radius of a target destination using Geolocation and Gemini AI.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
